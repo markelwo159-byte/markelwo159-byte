@@ -18,7 +18,7 @@ Before AI I spent eight years as a certified aerospace and semiconductor TIG wel
 
 ### Open source
 
-- **[ship-check](https://github.com/markelwo159-byte/ship-check)**: the pre-ship gate every finished project goes through: secret scan, static checks, dependency audit, unit, integration, end-to-end and performance tests. Any failure blocks the ship.
+- **[Pre-Deploy Security & Test Check](https://github.com/markelwo159-byte/pre-deploy-check)**: the check every finished project passes before it goes live: leaked-secret scan, code checks, dependency audit, unit, integration and end-to-end tests, and a speed test. Any failure blocks the deploy.
 
 ### See it working
 
