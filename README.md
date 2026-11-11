@@ -16,6 +16,10 @@ Before AI I spent eight years as a certified aerospace and semiconductor TIG wel
 | **Diamond Desk** | Watches a supplier's WhatsApp channel, parses daily stock sheets (Excel, PDF, text) into a searchable catalog, and exports clean customer-facing pages. |
 | **Custom jewelry for clients** | AI-built parametric 3D designs with a private 3D preview each client can turn on their phone, revised with them until sign-off. |
 
+### Open source
+
+- **[ship-check](https://github.com/markelwo159-byte/ship-check)**: the pre-ship gate every finished project goes through: secret scan, static checks, dependency audit, unit, integration, end-to-end and performance tests. Any failure blocks the ship.
+
 ### See it working
 
 **Portfolio with live demos and 3D viewers:** [markelwo159-byte.github.io/ai-portfolio](https://markelwo159-byte.github.io/ai-portfolio/)
