@@ -16,6 +16,10 @@ Before AI I spent eight years as a certified aerospace and semiconductor TIG wel
 | **Diamond Desk** | Watches a supplier's WhatsApp channel, parses daily stock sheets (Excel, PDF, text) into a searchable catalog, and exports clean customer-facing pages. |
 | **Custom jewelry for clients** | AI-built parametric 3D designs with a private 3D preview each client can turn on their phone, revised with them until sign-off. |
 
+### Live demo
+
+- **[Liquid Glass Business Dashboards](https://markelwo159-byte.github.io/liquid-glass-dashboards/)**: three interactive dashboards (revenue, sales pipeline, customer growth) with Apple-style spring motion, Liquid Glass themes and plain-language insights worked out from the data. Works on a phone. Built by directing Claude Code, no frameworks, checked with real-browser tests.
+
 ### Open source
 
 - **[Pre-Deploy Security & Test Check](https://github.com/markelwo159-byte/pre-deploy-check)**: the check every finished project passes before it goes live: leaked-secret scan, code checks, dependency audit, unit, integration and end-to-end tests, and a speed test. Any failure blocks the deploy.
